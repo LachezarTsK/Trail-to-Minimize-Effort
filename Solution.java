@@ -1,5 +1,3 @@
-package trailToMinimizeEffort.gitHub;
-
 import java.util.PriorityQueue;
 
 public class Solution {
